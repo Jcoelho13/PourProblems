@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do PourProblems, um website dedicado a reclamações de vinhos. Este projeto foi desenvolvido como parte do curso de Linguagens e Tecnologias Web (LTW) e tem como objetivo fornecer uma plataforma para os usuários compartilharem suas experiências e problemas relacionados a vinhos.
 
-![Alt text](https://github.com/PedroLandolt/PourProblems/blob/main/sources/PourProblems_Logo_White.png)
+![Alt text](https://github.com/Jcoelho13/PourProblems/blob/main/sources/PourProblems_Logo_White.png)
 
 ## Funcionalidades Principais
 
@@ -56,7 +56,7 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento do Pou
 
 2. Clone este repositório em seu ambiente de desenvolvimento:
 
-- git clone https://github.com/PedroLandolt/pourproblems.git
+- git clone https://github.com/Jcoelho13/pourproblems.git
 - abrir a pasta 'project-ltw05g01' no vscode
 - correr, num terminal wsl, 'php -S localhost:9000'
 
@@ -78,7 +78,7 @@ Se você deseja contribuir para o desenvolvimento do PourProblems, fique à vont
 
 Certifique-se de seguir as diretrizes de contribuição e fornecer uma descrição clara das alterações que você fez.
 
-## Equipe
+## Equipa
 
 - João Coelho (up202004846)
 - João Mota (up202108677)
